@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper-conference | Alan Both</title>
+    <link>https://alanboth.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://alanboth.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
+      <title>paper-conference</title>
+      <link>https://alanboth.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Extracting Causal Rules from Spatio-Temporal Data</title>
+      <link>https://alanboth.github.io/publication/2015-causality/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2015-causality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative Spatial Structure in Complex Areal Objects Using Location-Free, Mobile Geosensor Networks</title>
+      <link>https://alanboth.github.io/publication/2013-qsr/</link>
+      <pubDate>Sun, 08 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2013-qsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Braitenberg vehicles</title>
+      <link>https://alanboth.github.io/publication/2013-sbv/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2013-sbv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

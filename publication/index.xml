@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Alan Both</title>
+    <link>https://alanboth.github.io/publication/</link>
+      <atom:link href="https://alanboth.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://alanboth.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Shifting car travel to active modes to improve population health and achieve transport goals: A simulation study</title>
+      <link>https://alanboth.github.io/publication/2023-shifting-car-travel/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2023-shifting-car-travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liveability research creating real world impact: connecting urban planning and public health through the Australian Urban Observatory</title>
+      <link>https://alanboth.github.io/publication/2023-liveability-research/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2023-liveability-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-span: Open and reproducible spatial analytics using scientific workflows</title>
+      <link>https://alanboth.github.io/publication/2023-kspan/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2023-kspan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and socioeconomic inequities in liveability in Australia’s 21 largest cities: Does city size matter?</title>
+      <link>https://alanboth.github.io/publication/2022-spatial-inequities/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2022-spatial-inequities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy-Relevant Spatial Indicators of Urban Liveability And Sustainability: Scaling From Local to Global</title>
+      <link>https://alanboth.github.io/publication/2022-policy-relevant-spatial-indicators/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2022-policy-relevant-spatial-indicators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving ‘Active’ 30 Minute Cities: How Feasible Is It to Reach Work within 30 Minutes Using Active Transport Modes?</title>
+      <link>https://alanboth.github.io/publication/2022-30-minute-cities/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2022-30-minute-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the road network for city-scale active transport simulation models</title>
+      <link>https://alanboth.github.io/publication/2022-network/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2022-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Activity-Based Model of Transport Demand for Greater Melbourne</title>
+      <link>https://alanboth.github.io/publication/2021-virtual-population/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2021-virtual-population/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the reproducibility of geospatial scientific workflows: the use of geosocial media in facilitating disaster response</title>
+      <link>https://alanboth.github.io/publication/2021-scientific-workflows/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2021-scientific-workflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative analysis of trajectory similarity measures</title>
+      <link>https://alanboth.github.io/publication/2021-trajectory/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2021-trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking urban tree inventories to remote sensing data for individual tree mapping</title>
+      <link>https://alanboth.github.io/publication/2021-urban-tree/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2021-urban-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A human-centred assessment framework to prioritise heat mitigation efforts for active travel at city scale</title>
+      <link>https://alanboth.github.io/publication/2021-heat-mitigation/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2021-heat-mitigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Could smart research ensure healthy people in disrupted cities?</title>
+      <link>https://alanboth.github.io/publication/2020-distrupted-cities/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2020-distrupted-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and mapping traffic signs from Google Street View images using deep learning and GIS</title>
+      <link>https://alanboth.github.io/publication/2019-stop-signs/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2019-stop-signs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban vegetation cover change in Melbourne: 2014-2018</title>
+      <link>https://alanboth.github.io/publication/2019-urban-vegetation/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2019-urban-vegetation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Surrounds and Engulfs Relations in Mobile and Coordinate-Free Geosensor Networks</title>
+      <link>https://alanboth.github.io/publication/2018-surrounds/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2018-surrounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics of movement through checkpoints</title>
+      <link>https://alanboth.github.io/publication/2018-checkpoints/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2018-checkpoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Causal Rules from Spatio-Temporal Data</title>
+      <link>https://alanboth.github.io/publication/2015-causality/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2015-causality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Computation of Qualitative Spatial Relationships in Mobile Geosensor Networks</title>
+      <link>https://alanboth.github.io/publication/2015-thesis/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2015-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On redundant topological constraints</title>
+      <link>https://alanboth.github.io/publication/2015-topological-constraints/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2015-topological-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative Spatial Structure in Complex Areal Objects Using Location-Free, Mobile Geosensor Networks</title>
+      <link>https://alanboth.github.io/publication/2013-qsr/</link>
+      <pubDate>Sun, 08 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2013-qsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Monitoring of Moving Objects in a Transportation Network Augmented with Checkpoints</title>
+      <link>https://alanboth.github.io/publication/2013-fish/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2013-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Braitenberg vehicles</title>
+      <link>https://alanboth.github.io/publication/2013-sbv/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2013-sbv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
