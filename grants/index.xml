@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Grants | Alan Both</title>
+    <link>https://alanboth.github.io/grants/</link>
+      <atom:link href="https://alanboth.github.io/grants/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Grants</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Grants</title>
+      <link>https://alanboth.github.io/grants/</link>
+    </image>
+    
+    <item>
+      <title>Linking health, place and urban planning through the Australian Urban Observatory</title>
+      <link>https://alanboth.github.io/grants/2024-ianpotter/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2024-ianpotter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework for Assessing Benefits for Active Transport Investments in Regional Areas</title>
+      <link>https://alanboth.github.io/grants/2024-imove/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2024-imove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing tools for knowledge translation in transport and health modelling</title>
+      <link>https://alanboth.github.io/grants/2023-vichealth/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2023-vichealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joining Impact models of transport with spatial measures of the Built Environment (JIBE)</title>
+      <link>https://alanboth.github.io/grants/2020-jibe/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2020-jibe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2.23 Open Spatial Analytics, Stage 3</title>
+      <link>https://alanboth.github.io/grants/2018-crcsi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2018-crcsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2.23 Open Spatial Analytics, Stage 2</title>
+      <link>https://alanboth.github.io/grants/2017-crcsi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/grants/2017-crcsi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
