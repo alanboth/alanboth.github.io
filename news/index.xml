@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Alan Both</title>
+    <link>https://alanboth.github.io/news/</link>
+      <atom:link href="https://alanboth.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://alanboth.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>Australia flops in global study of ‘15-minute cities’</title>
+      <link>https://alanboth.github.io/news/20240921-7news/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240921-7news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe doing better at creating 15-minute cities than Australia, research finds</title>
+      <link>https://alanboth.github.io/news/20240917-abcnews/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240917-abcnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Most Australians take more than 30 minutes to get to work. How does that compare to other countries?</title>
+      <link>https://alanboth.github.io/news/20240707-abcnews/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240707-abcnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>There goes the neighbourhood. How to tell if your area is next in the gentrification firing line</title>
+      <link>https://alanboth.github.io/news/20240623-abcnews/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240623-abcnews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If you build it, will they come? Calls for a rethink on social infrastructure planning</title>
+      <link>https://alanboth.github.io/news/20240221-smh/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240221-smh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Striding or stumbling? Walkability in Brisbane a tale of two cities</title>
+      <link>https://alanboth.github.io/news/20240220-smh/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20240220-smh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essential workers priced out of housing near Sydney workplaces face even longer commutes</title>
+      <link>https://alanboth.github.io/news/20230608-theguardian2/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20230608-theguardian2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How gentrified is your postcode? Search our map of Australia’s capital cities</title>
+      <link>https://alanboth.github.io/news/20230608-theguardian/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20230608-theguardian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South East Queensland population, housing, jobs, connectivity and liveability</title>
+      <link>https://alanboth.github.io/news/20221207-infrastructure/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20221207-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snapshot of Cities and Regions—chart pack</title>
+      <link>https://alanboth.github.io/news/20220721-infrastructure/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20220721-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livability | Australia state of the environment 2021</title>
+      <link>https://alanboth.github.io/news/20211201-soe/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20211201-soe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

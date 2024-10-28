@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article-newspaper | Alan Both</title>
+    <link>https://alanboth.github.io/publication-type/article-newspaper/</link>
+      <atom:link href="https://alanboth.github.io/publication-type/article-newspaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>article-newspaper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
+      <title>article-newspaper</title>
+      <link>https://alanboth.github.io/publication-type/article-newspaper/</link>
+    </image>
+    
+    <item>
+      <title>Why do so few people cycle for transport in Australia? 6 ideas on how to reap all the benefits of bikes</title>
+      <link>https://alanboth.github.io/publication/2024-cycling-article/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2024-cycling-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID skewed journey-to-work census data. Here’s how city planners can make the best of it</title>
+      <link>https://alanboth.github.io/publication/2022-jtw-article/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2022-jtw-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The average regional city resident lacks good access to two-thirds of community services, and liveability suffers</title>
+      <link>https://alanboth.github.io/publication/2020-regional-liveability-article/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2020-regional-liveability-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
