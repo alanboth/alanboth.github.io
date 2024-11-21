@@ -5,12 +5,20 @@
     <link>https://alanboth.github.io/news/</link>
       <atom:link href="https://alanboth.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://alanboth.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>Australians in outer suburbs have far less access to schools, healthcare and public transport, report finds</title>
+      <link>https://alanboth.github.io/news/20241121-theguardian/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20241121-theguardian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Australia flops in global study of ‘15-minute cities’</title>
@@ -57,6 +65,14 @@
       <link>https://alanboth.github.io/news/20240220-smh/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://alanboth.github.io/news/20240220-smh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Health and Climate Strategy</title>
+      <link>https://alanboth.github.io/news/20231206-health/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/news/20231206-health/</guid>
       <description></description>
     </item>
     
