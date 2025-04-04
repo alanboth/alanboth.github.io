@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article-journal | Alan Both</title>
+    <title>Article-Journal | Alan Both</title>
     <link>https://alanboth.github.io/publication-type/article-journal/</link>
       <atom:link href="https://alanboth.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
-    <description>article-journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
-      <title>article-journal</title>
-      <link>https://alanboth.github.io/publication-type/article-journal/</link>
-    </image>
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Modelling active travel accessibility at the micro-scale using multi-source built environment data</title>
+      <link>https://alanboth.github.io/publication/2025-jibe-network/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2025-jibe-network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modelling the impact of road infrastructure on cycling moving speed</title>
-      <link>https://alanboth.github.io/publication/2024-cycling-infrastructure/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://alanboth.github.io/publication/2024-cycling-infrastructure/</guid>
+      <link>https://alanboth.github.io/publication/2025-cycling-infrastructure/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://alanboth.github.io/publication/2025-cycling-infrastructure/</guid>
       <description></description>
     </item>
     

@@ -6,12 +6,6 @@
       <atom:link href="https://alanboth.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>https://alanboth.github.io/project/</link>
-    </image>
-    
     <item>
       <title>AToM</title>
       <link>https://alanboth.github.io/project/atom/</link>

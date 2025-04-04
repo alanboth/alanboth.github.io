@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article-newspaper | Alan Both</title>
+    <title>Article-Newspaper | Alan Both</title>
     <link>https://alanboth.github.io/publication-type/article-newspaper/</link>
       <atom:link href="https://alanboth.github.io/publication-type/article-newspaper/index.xml" rel="self" type="application/rss+xml" />
-    <description>article-newspaper</description>
+    <description>Article-Newspaper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
-      <title>article-newspaper</title>
-      <link>https://alanboth.github.io/publication-type/article-newspaper/</link>
-    </image>
-    
     <item>
       <title>Why do so few people cycle for transport in Australia? 6 ideas on how to reap all the benefits of bikes</title>
       <link>https://alanboth.github.io/publication/2024-cycling-article/</link>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thesis | Alan Both</title>
+    <title>Thesis | Alan Both</title>
     <link>https://alanboth.github.io/publication-type/thesis/</link>
       <atom:link href="https://alanboth.github.io/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>thesis</description>
+    <description>Thesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://alanboth.github.io/media/icon_hua270cbd1e1311c6ddbedc3082447fb9a_13233_512x512_fill_lanczos_center_3.png</url>
-      <title>thesis</title>
-      <link>https://alanboth.github.io/publication-type/thesis/</link>
-    </image>
-    
     <item>
       <title>Decentralized Computation of Qualitative Spatial Relationships in Mobile Geosensor Networks</title>
       <link>https://alanboth.github.io/publication/2015-thesis/</link>
